@@ -1,4 +1,4 @@
-## Retail-Performance-Northeast-Region-2018
+# Retail-Performance-Northeast-Region-2018
 This project is an interactive Tableau dashboard built to analyze retail sales performance.
 It provides a clear, data-driven view of sales, profit, discounts, and order quantities across regions, categories, and time periods.
 The goal is to help businesses quickly identify trends, compare performance with goals, and make informed decisions.
