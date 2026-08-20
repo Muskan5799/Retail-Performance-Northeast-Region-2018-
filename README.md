@@ -25,9 +25,9 @@ Sales, Quantity, Discount, Profit
 
 ### Key Features of Dashboard
 
-#### KPI Cards:####  Displays key metrics (Sales, Profit, Quantity, Avg. Discount).
-#### Geographic Analysis:####  Map view of sales and profit by city.
-#### Target Tracking: #### Sales vs. Goal comparison by region.
-#### Category Insights: #### Category & sub-category breakdown using tree maps.
-#### Trend Analysis: #### Sales & profit by month with bar + line combo chart.
-#### Interactive Filters: #### Region, State, City, Category, Month.
+#### KPI Cards: Displays key metrics (Sales, Profit, Quantity, Avg. Discount).
+#### Geographic Analysis: Map view of sales and profit by city.
+#### Target Tracking: Sales vs. Goal comparison by region.
+#### Category Insights:  Category & sub-category breakdown using tree maps.
+#### Trend Analysis: Sales & profit by month with bar + line combo chart.
+#### Interactive Filters: Region, State, City, Category, Month.
